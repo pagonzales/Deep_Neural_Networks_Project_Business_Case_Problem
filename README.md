@@ -10,7 +10,7 @@ To create a machine learning algorithm using deep neural networks that can predi
 
 ## Metrics
 - Which are the most important metrics for a customer to come back.
-  - Does the customer leave a review or now?
+  - Does the customer leave a review?
   - What is the rating of the review?
   
 ## Action plan
