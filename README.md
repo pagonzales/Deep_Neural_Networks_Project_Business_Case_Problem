@@ -1,2 +1,12 @@
-# Deep_Neural_Networks_Project_Audiobook_Analysis
-This is a Data Science Project focusing on the modelling based on the Deep Neural Networks Machine Learning Procedure. This involves Data Preprocessing,  Standardizing the Data, Shuffling and Splitting the data, Modelling, and Testing the model.
+# Deep Neural Network Project (Analysis of Audiobook customers)
+## Project Objective
+
+## Data used
+- <a href = "https://github.com/pagonzales/Deep_Neural_Networks_Project_Audiobook_Analysis/blob/main/Audiobooks_data.csv">Dataset</a>
+## Questions
+
+## Process
+
+## Project Insights
+
+## Final conclusion
